@@ -1,8 +1,14 @@
-<<<<<<< HEAD
 readme.md
-=======
 
-A simple file for
+A text for demo
+
+
+
+
+
+
+
+
 
 
 
